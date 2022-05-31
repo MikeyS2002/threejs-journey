@@ -11,7 +11,9 @@
     "vite": "^2.9.9"
   },
   "dependencies": {
+    "gsap": "^3.10.4",
     "lil-gui": "^0.16.1",
+    "spectorjs": "^0.9.27",
     "three": "^0.141.0"
   }
 }
